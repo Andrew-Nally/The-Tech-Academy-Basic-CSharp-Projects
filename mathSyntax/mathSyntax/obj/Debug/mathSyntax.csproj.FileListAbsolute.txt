@@ -1,0 +1,7 @@
+C:\Users\Andre\Desktop\Basic_C#_Programs\mathSyntax\mathSyntax\obj\Debug\mathSyntax.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\mathSyntax\mathSyntax\obj\Debug\mathSyntax.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\mathSyntax\mathSyntax\bin\Debug\mathSyntax.exe.config
+C:\Users\Andre\Desktop\Basic_C#_Programs\mathSyntax\mathSyntax\bin\Debug\mathSyntax.exe
+C:\Users\Andre\Desktop\Basic_C#_Programs\mathSyntax\mathSyntax\bin\Debug\mathSyntax.pdb
+C:\Users\Andre\Desktop\Basic_C#_Programs\mathSyntax\mathSyntax\obj\Debug\mathSyntax.exe
+C:\Users\Andre\Desktop\Basic_C#_Programs\mathSyntax\mathSyntax\obj\Debug\mathSyntax.pdb

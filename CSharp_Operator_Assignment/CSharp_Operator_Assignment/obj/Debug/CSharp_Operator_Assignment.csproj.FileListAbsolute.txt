@@ -1,0 +1,7 @@
+C:\Users\Andre\Desktop\Basic_C#_Programs\CSharp_Operator_Assignment\CSharp_Operator_Assignment\bin\Debug\CSharp_Operator_Assignment.exe.config
+C:\Users\Andre\Desktop\Basic_C#_Programs\CSharp_Operator_Assignment\CSharp_Operator_Assignment\bin\Debug\CSharp_Operator_Assignment.exe
+C:\Users\Andre\Desktop\Basic_C#_Programs\CSharp_Operator_Assignment\CSharp_Operator_Assignment\bin\Debug\CSharp_Operator_Assignment.pdb
+C:\Users\Andre\Desktop\Basic_C#_Programs\CSharp_Operator_Assignment\CSharp_Operator_Assignment\obj\Debug\CSharp_Operator_Assignment.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\CSharp_Operator_Assignment\CSharp_Operator_Assignment\obj\Debug\CSharp_Operator_Assignment.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\CSharp_Operator_Assignment\CSharp_Operator_Assignment\obj\Debug\CSharp_Operator_Assignment.exe
+C:\Users\Andre\Desktop\Basic_C#_Programs\CSharp_Operator_Assignment\CSharp_Operator_Assignment\obj\Debug\CSharp_Operator_Assignment.pdb
