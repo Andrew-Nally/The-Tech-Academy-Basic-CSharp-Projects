@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Car_Insurance_Boolean_Logic_CSharp
+namespace Car_insurance_Boolean_Logic
 {
     class Program
     {
@@ -17,9 +17,10 @@ namespace Car_Insurance_Boolean_Logic_CSharp
             Console.WriteLine("How many speeding tickets do you have?");
             int speedTix = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Qualified:");
-            bool qualified = ((applicantAge >= 15) && (dui == "NO") || (dui == "no") && speedTix <= 3);
+            bool qualified = ((applicantAge >= 15) && dui.ToLower() == "no" && speedTix <= 3);
             Console.WriteLine(qualified);
             Console.ReadLine();
         }
     }
 }
+
