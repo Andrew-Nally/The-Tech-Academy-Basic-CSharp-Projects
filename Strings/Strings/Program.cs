@@ -11,7 +11,16 @@ namespace Strings
         static void Main(string[] args)
         {
 
-
+           string firstName = "Andrew";
+            string middleName = "Tyler";
+            string lastName = "Nally";
+           string fullName =" {firstName} + {middleName + lastName;
+            Console.WriteLine(fullName);
+             Console.ReadLine();
+           
+           string uppercase = fullName.ToUpper();
+            Console.WriteLine(uppercase);
+            Console.ReadLine();
 
             StringBuilder sb = new StringBuilder("Hello, My name is Andrew.");
             sb.AppendLine(" I like C#.");

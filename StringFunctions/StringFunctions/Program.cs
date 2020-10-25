@@ -10,31 +10,33 @@ namespace StringFunctions
     {
         static void Main(string[] args)
       {
-            //        string name = "jesse";
-            //        string quote = "The man siad, \"hello\",Jesse. \n Hello on a new line. \n \t hello on a tab";
-            //        string fileName =@"C:\Users\Andre";
 
-            //        bool trueOrFalse = name.Contains("s");
-            //        trueOrFalse = name.EndsWith("s");
 
-            //        int length = name.Length;
+            string name = "jesse";
+            string quote = "the man said, \"hello\",jesse. \n hello on a new line. \n \t hello on a tab";
+            string filename = @"c:\users\andre";
 
-            //        name = name.ToUpper();
+            //bool trueorfalse = name.contains("s");
+            //trueorfalse = name.endswith("s");
 
-            //        Console.WriteLine(fileName);
-            //        Console.ReadLine();
+            //int length = name.length;
+
+            //name = name.toupper();
+
+            console.writeline(quote);
+            console.readline();
 
             //string name = "Andrew";
             //name = "Joe";
 
             //Console.WriteLine(name);
-            //Console.ReadLine();
-            StringBuilder ab = new StringBuilder();
-            ab.Append("My name is Jesse");
+        //    //Console.ReadLine();
+        //    StringBuilder ab = new StringBuilder();
+        //    ab.Append("My name is Jesse");
 
 
-            Console.WriteLine(ab);
-            Console.ReadLine();
-        }
+        //    Console.WriteLine(ab);
+        //    Console.ReadLine();
+       }
     }
 }
