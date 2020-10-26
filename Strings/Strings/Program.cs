@@ -14,7 +14,7 @@ namespace Strings
            string firstName = "Andrew";
             string middleName = "Tyler";
             string lastName = "Nally";
-           string fullName =" {firstName} + {middleName + lastName;
+           string fullName = firstName + " " + middleName + " " + lastName;
             Console.WriteLine(fullName);
              Console.ReadLine();
            
