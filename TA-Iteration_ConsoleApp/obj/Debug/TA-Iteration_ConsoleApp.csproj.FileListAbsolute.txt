@@ -1,0 +1,7 @@
+C:\Users\Andre\Desktop\Basic_C#_Programs\TA-Iteration_ConsoleApp\bin\Debug\TA-Iteration_ConsoleApp.exe.config
+C:\Users\Andre\Desktop\Basic_C#_Programs\TA-Iteration_ConsoleApp\bin\Debug\TA-Iteration_ConsoleApp.exe
+C:\Users\Andre\Desktop\Basic_C#_Programs\TA-Iteration_ConsoleApp\bin\Debug\TA-Iteration_ConsoleApp.pdb
+C:\Users\Andre\Desktop\Basic_C#_Programs\TA-Iteration_ConsoleApp\obj\Debug\TA-Iteration_ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\TA-Iteration_ConsoleApp\obj\Debug\TA-Iteration_ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\TA-Iteration_ConsoleApp\obj\Debug\TA-Iteration_ConsoleApp.exe
+C:\Users\Andre\Desktop\Basic_C#_Programs\TA-Iteration_ConsoleApp\obj\Debug\TA-Iteration_ConsoleApp.pdb
