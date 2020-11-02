@@ -19,7 +19,7 @@ class Program
             numbers.Add(45);
             numbers.Add(50);         
             
-            Console.WriteLine("chOOSE A NUMBER TO DIVIDE ALL THE NUMBERS BY...");
+            Console.WriteLine(CHOOSE A NUMBER TO DIVIDE ALL THE NUMBERS BY...");
             int divisor = Convert.ToInt32(Console.ReadLine());
             for (int i = 0; i < numbers.Count; i++)
             {

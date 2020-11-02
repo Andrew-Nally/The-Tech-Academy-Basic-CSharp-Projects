@@ -1,0 +1,6 @@
+C:\Users\Andre\Desktop\Basic_C#_Programs\Loops_and_Lists\bin\Debug\Loops_and_Lists.exe.config
+C:\Users\Andre\Desktop\Basic_C#_Programs\Loops_and_Lists\bin\Debug\Loops_and_Lists.exe
+C:\Users\Andre\Desktop\Basic_C#_Programs\Loops_and_Lists\bin\Debug\Loops_and_Lists.pdb
+C:\Users\Andre\Desktop\Basic_C#_Programs\Loops_and_Lists\obj\Debug\Loops_and_Lists.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\Loops_and_Lists\obj\Debug\Loops_and_Lists.exe
+C:\Users\Andre\Desktop\Basic_C#_Programs\Loops_and_Lists\obj\Debug\Loops_and_Lists.pdb
