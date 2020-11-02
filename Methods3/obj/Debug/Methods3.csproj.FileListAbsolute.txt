@@ -1,0 +1,6 @@
+C:\Users\Andre\Desktop\Basic_C#_Programs\Methods3\obj\Debug\Methods3.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\Methods3\bin\Debug\Methods3.exe.config
+C:\Users\Andre\Desktop\Basic_C#_Programs\Methods3\bin\Debug\Methods3.exe
+C:\Users\Andre\Desktop\Basic_C#_Programs\Methods3\bin\Debug\Methods3.pdb
+C:\Users\Andre\Desktop\Basic_C#_Programs\Methods3\obj\Debug\Methods3.exe
+C:\Users\Andre\Desktop\Basic_C#_Programs\Methods3\obj\Debug\Methods3.pdb
