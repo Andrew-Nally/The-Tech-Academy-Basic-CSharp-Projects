@@ -24,14 +24,16 @@ namespace TwentyOne
            // game.Players = new List<string>() { "Jesse", "Bill", "Bob" };
            // game.ListPlayers();
            // Console.ReadLine();
-           Game game = new TwentyOneGame();
-           game.Players =  new List<Player>();
-           Player player = new Player();
-           player.Name = "Jesse";
-           game = game + player;
-           game = game - player;
+           //Game game = new TwentyOneGame();
+          // game.Players =  new List<Player>();
+          // Player player = new Player();
+          // player.Name = "Jesse";
+          // game = game + player;
+          // game = game - player;
 
-
+           Card card = new Card();
+            card.Suit = Suit.Clubs;
+           ConsoleColor color = ConsoleColor.Blue;
            Deck deck = new Deck();
            deck.Shuffle(3);
        

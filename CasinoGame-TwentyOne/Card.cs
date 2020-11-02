@@ -3,10 +3,10 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TwentyOne_CSharp;
+using CasinoGame-TwentyOne;
 
 
-namespace TwentyOne_CSharp
+namespace CasinoGame-TwentyOne
 {
     public class Card
     {
@@ -32,18 +32,17 @@ namespace TwentyOne_CSharp
     {
         Two,
         Three,
-        Four, 
+        Four,
         Five,
         Six,
-        Seven, 
+        Seven,
         Eight,
         Nine,
-        Ten, 
+        Ten,
         Jack,
         Queen,
         King,
         Ace
 
-    }
     }
 }

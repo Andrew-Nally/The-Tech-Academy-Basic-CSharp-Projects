@@ -32,18 +32,18 @@ namespace TwentyOne_CSharp
     {
         Two,
         Three,
-        Four, 
+        Four,
         Five,
         Six,
-        Seven, 
+        Seven,
         Eight,
         Nine,
-        Ten, 
+        Ten,
         Jack,
         Queen,
         King,
         Ace
 
     }
-    }
+}
 }

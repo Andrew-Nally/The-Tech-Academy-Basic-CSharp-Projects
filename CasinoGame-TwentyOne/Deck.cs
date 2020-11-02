@@ -3,29 +3,32 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using TwentyOne_CSharp;
+using CasinoGameusing Stripe;
 
-namespace TwentyOne_CSharp
+-TwentyOne;
+
+
+namespace CasinoGame-TwentyOne
 {
 	public class Deck
 	{
 		public Deck()
 		{
-			Cards = new List<card>();
-			
-			for( int i = 0; i < 13; i++)
-				{
-					for (int j = 0; j < 4; j++)
+			Cards = new List<Card>();
+
+			for (int i = 0; i < 13; i++)
+			{
+				for (int j = 0; j < 4; j++)
 				{
 					Card card = new Card();
 					card.Face = (Face)j;
 					card.Suit = (Suit)i;
 					Cards.Add(card);
-					}
-					}
+				}
 			}
+		}
 
-	   
+
 		public List<Card> Cards { get; set; }
 		public void Shuffle(int times = 1)
 		{
