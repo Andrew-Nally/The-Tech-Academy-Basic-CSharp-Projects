@@ -1,12 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using CasinoGame-TwentyOne;
 
-
-namespace CasinoGame-TwentyOne
+namespace CasinoGame_TwentyOne
 {
     public class Card
     {
@@ -43,6 +39,6 @@ namespace CasinoGame-TwentyOne
         Queen,
         King,
         Ace
-
     }
 }
+   

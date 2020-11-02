@@ -1,20 +1,14 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
 using System.Text;
-using System.Threading.Tasks;
-using CasinoGameusing Stripe;
 
--TwentyOne;
-
-
-namespace CasinoGame-TwentyOne
+namespace CasinoGame_TwentyOne
 {
 	public class Deck
 	{
 		public Deck()
 		{
-			Cards = new List<Card>();
+			Cards = new List<card>();
 
 			for (int i = 0; i < 13; i++)
 			{
