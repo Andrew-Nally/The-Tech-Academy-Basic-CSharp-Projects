@@ -1,0 +1,17 @@
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\obj\Debug\netcoreapp3.1\Lambda Drill.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\obj\Debug\netcoreapp3.1\Lambda Drill.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\obj\Debug\netcoreapp3.1\Lambda Drill.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\obj\Debug\netcoreapp3.1\Lambda Drill.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\bin\Debug\netcoreapp3.1\Lambda Drill.exe
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\bin\Debug\netcoreapp3.1\Lambda Drill.deps.json
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\bin\Debug\netcoreapp3.1\Lambda Drill.runtimeconfig.json
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\bin\Debug\netcoreapp3.1\Lambda Drill.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\bin\Debug\netcoreapp3.1\Lambda Drill.dll
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\bin\Debug\netcoreapp3.1\Lambda Drill.pdb
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\bin\Debug\netcoreapp3.1\Xero.Api.Example.Applications.dll
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\bin\Debug\netcoreapp3.1\Xero.Api.dll
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\obj\Debug\netcoreapp3.1\Lambda Drill.csproj.CopyComplete
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\obj\Debug\netcoreapp3.1\Lambda Drill.dll
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\obj\Debug\netcoreapp3.1\Lambda Drill.pdb
+C:\Users\Andre\Desktop\Basic_C#_Programs\Lambda Drill\obj\Debug\netcoreapp3.1\Lambda Drill.genruntimeconfig.cache
