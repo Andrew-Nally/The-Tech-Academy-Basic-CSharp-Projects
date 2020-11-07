@@ -1,0 +1,12 @@
+C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\bin\Debug\netcoreapp3.1\Constuctor_Drill.exe
+C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\bin\Debug\netcoreapp3.1\Constuctor_Drill.deps.json
+C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\bin\Debug\netcoreapp3.1\Constuctor_Drill.runtimeconfig.json
+C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\bin\Debug\netcoreapp3.1\Constuctor_Drill.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\bin\Debug\netcoreapp3.1\Constuctor_Drill.dll
+C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\bin\Debug\netcoreapp3.1\Constuctor_Drill.pdb
+C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\obj\Debug\netcoreapp3.1\Constuctor_Drill.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\obj\Debug\netcoreapp3.1\Constuctor_Drill.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\obj\Debug\netcoreapp3.1\Constuctor_Drill.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\obj\Debug\netcoreapp3.1\Constuctor_Drill.dll
+C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\obj\Debug\netcoreapp3.1\Constuctor_Drill.pdb
+C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\obj\Debug\netcoreapp3.1\Constuctor_Drill.genruntimeconfig.cache
