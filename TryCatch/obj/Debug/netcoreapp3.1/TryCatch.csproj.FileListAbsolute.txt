@@ -1,0 +1,12 @@
+C:\Users\Andre\Desktop\Basic_C#_Programs\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfoInputs.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.AssemblyInfo.cs
+C:\Users\Andre\Desktop\Basic_C#_Programs\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.exe
+C:\Users\Andre\Desktop\Basic_C#_Programs\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.deps.json
+C:\Users\Andre\Desktop\Basic_C#_Programs\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.json
+C:\Users\Andre\Desktop\Basic_C#_Programs\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.runtimeconfig.dev.json
+C:\Users\Andre\Desktop\Basic_C#_Programs\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.dll
+C:\Users\Andre\Desktop\Basic_C#_Programs\TryCatch\bin\Debug\netcoreapp3.1\TryCatch.pdb
+C:\Users\Andre\Desktop\Basic_C#_Programs\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.dll
+C:\Users\Andre\Desktop\Basic_C#_Programs\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.pdb
+C:\Users\Andre\Desktop\Basic_C#_Programs\TryCatch\obj\Debug\netcoreapp3.1\TryCatch.genruntimeconfig.cache
