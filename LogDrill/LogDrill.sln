@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30413.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LogDrill", "LogDrill.csproj", "{3DD68D5C-D536-4557-8912-DB6326047530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DD68D5C-D536-4557-8912-DB6326047530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DD68D5C-D536-4557-8912-DB6326047530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DD68D5C-D536-4557-8912-DB6326047530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DD68D5C-D536-4557-8912-DB6326047530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {61EE6799-5965-44B1-8211-EFB182F14028}
+	EndGlobalSection
+EndGlobal

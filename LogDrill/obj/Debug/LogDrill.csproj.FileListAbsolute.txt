@@ -1,0 +1,7 @@
+C:\Users\Andre\Desktop\Basic_C#_Programs\LogDrill\obj\Debug\LogDrill.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\LogDrill\obj\Debug\LogDrill.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\LogDrill\bin\Debug\LogDrill.exe.config
+C:\Users\Andre\Desktop\Basic_C#_Programs\LogDrill\bin\Debug\LogDrill.exe
+C:\Users\Andre\Desktop\Basic_C#_Programs\LogDrill\bin\Debug\LogDrill.pdb
+C:\Users\Andre\Desktop\Basic_C#_Programs\LogDrill\obj\Debug\LogDrill.exe
+C:\Users\Andre\Desktop\Basic_C#_Programs\LogDrill\obj\Debug\LogDrill.pdb
