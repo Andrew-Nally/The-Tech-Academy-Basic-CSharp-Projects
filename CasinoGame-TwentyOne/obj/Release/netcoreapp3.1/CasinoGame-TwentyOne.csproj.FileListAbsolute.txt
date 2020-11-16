@@ -1,3 +1,0 @@
-C:\Users\Andre\Desktop\Basic_C#_Programs\CasinoGame-TwentyOne\obj\Release\netcoreapp3.1\CasinoGame-TwentyOne.AssemblyInfoInputs.cache
-C:\Users\Andre\Desktop\Basic_C#_Programs\CasinoGame-TwentyOne\obj\Release\netcoreapp3.1\CasinoGame-TwentyOne.AssemblyInfo.cs
-C:\Users\Andre\Desktop\Basic_C#_Programs\CasinoGame-TwentyOne\obj\Release\netcoreapp3.1\CasinoGame-TwentyOne.csproj.CoreCompileInputs.cache

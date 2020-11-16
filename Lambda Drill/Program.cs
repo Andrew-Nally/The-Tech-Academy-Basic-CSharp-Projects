@@ -24,8 +24,8 @@ namespace Lambda_Drill
                 new Employee(){Id = 5, FirstName= "Matt", LastName= "Mayday"},
                 new Employee(){Id = 6, FirstName= "Drew", LastName= "Tyler"},
                 new Employee(){Id = 7, FirstName= "Mo", LastName= "Moe"},
-                new Employee(){Id = 8, FirstName= "Joe", LastName= "Blank"},
-                new Employee(){Id = 9, FirstName= "Joe", LastName= "Blanks"},
+                new Employee(){Id = 8, FirstName= "Joe", LastName= "Black"},
+                new Employee(){Id = 9, FirstName= "Joe", LastName= "Biden"},
                 new Employee(){Id = 10, FirstName= "David", LastName= "MoMo"},
             };
 

@@ -18,4 +18,4 @@ namespace Constructor_var
             Console.ReadLine();
         }
     }
-}
+}                                                             

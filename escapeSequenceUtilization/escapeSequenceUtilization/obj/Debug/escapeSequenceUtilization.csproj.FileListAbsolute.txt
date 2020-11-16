@@ -4,3 +4,4 @@ C:\Users\Andre\Desktop\Basic_C#_Programs\escapeSequenceUtilization\escapeSequenc
 C:\Users\Andre\Desktop\Basic_C#_Programs\escapeSequenceUtilization\escapeSequenceUtilization\bin\Debug\escapeSequenceUtilization.pdb
 C:\Users\Andre\Desktop\Basic_C#_Programs\escapeSequenceUtilization\escapeSequenceUtilization\obj\Debug\escapeSequenceUtilization.exe
 C:\Users\Andre\Desktop\Basic_C#_Programs\escapeSequenceUtilization\escapeSequenceUtilization\obj\Debug\escapeSequenceUtilization.pdb
+C:\Users\Andre\Desktop\Basic_C#_Programs\escapeSequenceUtilization\escapeSequenceUtilization\obj\Debug\escapeSequenceUtilization.csprojAssemblyReference.cache

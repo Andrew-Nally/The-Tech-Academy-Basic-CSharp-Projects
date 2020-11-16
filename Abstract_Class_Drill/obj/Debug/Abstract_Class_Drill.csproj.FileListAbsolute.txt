@@ -4,3 +4,4 @@ C:\Users\Andre\Desktop\Basic_C#_Programs\Abstract_Class_Drill\bin\Debug\Abstract
 C:\Users\Andre\Desktop\Basic_C#_Programs\Abstract_Class_Drill\bin\Debug\Abstract_Class_Drill.pdb
 C:\Users\Andre\Desktop\Basic_C#_Programs\Abstract_Class_Drill\obj\Debug\Abstract_Class_Drill.exe
 C:\Users\Andre\Desktop\Basic_C#_Programs\Abstract_Class_Drill\obj\Debug\Abstract_Class_Drill.pdb
+C:\Users\Andre\Desktop\Basic_C#_Programs\Abstract_Class_Drill\obj\Debug\Abstract_Class_Drill.csprojAssemblyReference.cache

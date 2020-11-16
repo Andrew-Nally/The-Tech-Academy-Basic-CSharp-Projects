@@ -4,3 +4,4 @@ C:\Users\Andre\Desktop\Basic_C#_Programs\CSharp_Switch\CSharp_Switch\bin\Debug\C
 C:\Users\Andre\Desktop\Basic_C#_Programs\CSharp_Switch\CSharp_Switch\obj\Debug\CSharp_Switch.csproj.CoreCompileInputs.cache
 C:\Users\Andre\Desktop\Basic_C#_Programs\CSharp_Switch\CSharp_Switch\obj\Debug\CSharp_Switch.exe
 C:\Users\Andre\Desktop\Basic_C#_Programs\CSharp_Switch\CSharp_Switch\obj\Debug\CSharp_Switch.pdb
+C:\Users\Andre\Desktop\Basic_C#_Programs\CSharp_Switch\CSharp_Switch\obj\Debug\CSharp_Switch.csprojAssemblyReference.cache

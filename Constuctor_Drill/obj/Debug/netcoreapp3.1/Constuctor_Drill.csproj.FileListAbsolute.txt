@@ -10,3 +10,4 @@ C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\obj\Debug\netcoreapp3.
 C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\obj\Debug\netcoreapp3.1\Constuctor_Drill.dll
 C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\obj\Debug\netcoreapp3.1\Constuctor_Drill.pdb
 C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\obj\Debug\netcoreapp3.1\Constuctor_Drill.genruntimeconfig.cache
+C:\Users\Andre\Desktop\Basic_C#_Programs\Constuctor_Drill\obj\Debug\netcoreapp3.1\Constuctor_Drill.csprojAssemblyReference.cache
