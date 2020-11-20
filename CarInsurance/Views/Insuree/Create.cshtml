@@ -105,7 +105,8 @@
             </div>
         </div>
 
-        @Html.Hidden("Quote")
+        @Html.EditorFor(model => model.Quote,  new { htmlAttributes = new { @class = "hidden", @Value = 0 } })
+
 
         <div class="form-group">
             <div class="col-md-offset-2 col-md-10">

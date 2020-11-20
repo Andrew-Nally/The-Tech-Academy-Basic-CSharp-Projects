@@ -133,23 +133,23 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
-    <Compile Include="Models\InsuranceEntities.Context.cs">
+    <Compile Include="Models\InsuranceEntities2.Context.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>InsuranceEntities.Context.tt</DependentUpon>
+      <DependentUpon>InsuranceEntities2.Context.tt</DependentUpon>
     </Compile>
-    <Compile Include="Models\InsuranceEntities.cs">
+    <Compile Include="Models\InsuranceEntities2.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>InsuranceEntities.tt</DependentUpon>
+      <DependentUpon>InsuranceEntities2.tt</DependentUpon>
     </Compile>
-    <Compile Include="Models\InsuranceEntities.Designer.cs">
+    <Compile Include="Models\InsuranceEntities2.Designer.cs">
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
-      <DependentUpon>InsuranceEntities.edmx</DependentUpon>
+      <DependentUpon>InsuranceEntities2.edmx</DependentUpon>
     </Compile>
     <Compile Include="Models\Insuree.cs">
-      <DependentUpon>InsuranceEntities.tt</DependentUpon>
+      <DependentUpon>InsuranceEntities2.tt</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -166,24 +166,24 @@
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
-    <Content Include="Models\InsuranceEntities.Context.tt">
+    <Content Include="Models\InsuranceEntities2.Context.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <LastGenOutput>InsuranceEntities.Context.cs</LastGenOutput>
-      <DependentUpon>InsuranceEntities.edmx</DependentUpon>
+      <DependentUpon>InsuranceEntities2.edmx</DependentUpon>
+      <LastGenOutput>InsuranceEntities2.Context.cs</LastGenOutput>
     </Content>
-    <Content Include="Models\InsuranceEntities.tt">
+    <Content Include="Models\InsuranceEntities2.tt">
       <Generator>TextTemplatingFileGenerator</Generator>
-      <DependentUpon>InsuranceEntities.edmx</DependentUpon>
-      <LastGenOutput>InsuranceEntities.cs</LastGenOutput>
+      <DependentUpon>InsuranceEntities2.edmx</DependentUpon>
+      <LastGenOutput>InsuranceEntities2.cs</LastGenOutput>
     </Content>
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
-    <EntityDeploy Include="Models\InsuranceEntities.edmx">
+    <EntityDeploy Include="Models\InsuranceEntities2.edmx">
       <Generator>EntityModelCodeGenerator</Generator>
-      <LastGenOutput>InsuranceEntities.Designer.cs</LastGenOutput>
+      <LastGenOutput>InsuranceEntities2.Designer.cs</LastGenOutput>
     </EntityDeploy>
-    <Content Include="Models\InsuranceEntities.edmx.diagram">
-      <DependentUpon>InsuranceEntities.edmx</DependentUpon>
+    <Content Include="Models\InsuranceEntities2.edmx.diagram">
+      <DependentUpon>InsuranceEntities2.edmx</DependentUpon>
     </Content>
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />

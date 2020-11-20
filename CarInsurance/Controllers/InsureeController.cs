@@ -7,11 +7,13 @@ using System.Net;
 using System.Web.Mvc;
 using System.Xml.Linq;
 
+
+
 namespace CarInsurance.Controllers
 {
     public class InsureeController : Controller
     {
-        private InsuranceEntities db = new InsuranceEntities();
+        private InsuranceEntities1 db = new InsuranceEntities1();
 
         // GET: Insuree Offer
         public ActionResult Index()
@@ -44,56 +46,16 @@ namespace CarInsurance.Controllers
         {
             return View();
         }
-
-
+ 
         // POST: Insuree/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for
-        // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
-
-        public partial class Insuree
+       
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
         {
-            public int Id { get; set; }
-            [Display(Name = "First Name")]
-            [Required]
-            public string FirstName { get; set; }
-            [Display(Name = "Last Name")]
-            [Required]
-            public string LastName { get; set; }
-            [Display(Name = "Email")]
-            [Required]
-            public string EmailAddress { get; set; }
-            [Display(Name = "Date of Birth")]
-            [Required]
-            public System.DateTime DateOfBirth { get; set; }
-            [Display(Name = "Year")]
-            [Required]
-            public int CarYear { get; set; }
-            [Display(Name = "Make")]
-            [Required]
-            public string CarMake { get; set; }
-            [Display(Name = "Model")]
-            [Required]
-            public string CarModel { get; set; }
-            [Display(Name = "DUI")]
-            public bool DUI { get; set; }
-            [Display(Name = "Number of Speeding Tickets")]
-            [Required]
-            public int SpeedingTickets { get; set; }
-            [Display(Name = "Add Collision")]
-            public bool CoverageType { get; set; }
-            public decimal? Quote
+            insuree.Quote = 0;
+            if (ModelState.IsValid)
             {
-                get
-                {
-                    Insuree insuree = new Insuree();
-                    insuree.DateOfBirth = DateOfBirth;
-                    insuree.CarYear = CarYear;
-                    insuree.CarMake = CarMake.ToLower();
-                    insuree.CarModel = CarModel.ToLower();
-                    insuree.DUI = DUI;
-                    insuree.SpeedingTickets = SpeedingTickets;
-                    insuree.CoverageType = CoverageType;
-
                     float quote = 0f;
                     int monthlyQuote = 50;
                     int extras = 0;
@@ -126,7 +88,7 @@ namespace CarInsurance.Controllers
 
                         if (insuree.CarModel == "911 carrera")
                         {
-                            extras += 50;
+                            extras += 25;
                         }
                     }
 
@@ -143,23 +105,10 @@ namespace CarInsurance.Controllers
                     {
                         quote = (float)(quote * 1.5);
                     }
-                    return (decimal)quote;
-                }
-                set
-                {
-                    // A dynamically computed field needs an empty set to fulfill prop requirements
-                }
-            }
-        }
-        [HttpPost]
-        [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
-        {
-            if (ModelState.IsValid)
-            {
-                Convert.ToInt32();
-                db.Insurees.Add(insuree);
-                db.SaveChanges();
+
+                    insuree.Quote = Convert.ToDecimal(quote);
+                    db.Insurees.Add(insuree);
+                    db.SaveChanges();
                 return RedirectToAction("Index");
             }
 
@@ -184,17 +133,17 @@ namespace CarInsurance.Controllers
         // POST: Insuree/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
-        [HttpPost]
+        [HttpPost, ActionName("Create")]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree)
+        public ActionResult Edit([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,CoverageType,Quote")] Insuree insuree1)
         {
             if (ModelState.IsValid)
             {
-                db.Entry(insuree).State = EntityState.Modified;
+                db.Entry(insuree1).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-            return View(insuree);
+            return View();
         }
 
         // GET: Insuree/Delete/5
